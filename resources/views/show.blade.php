@@ -53,15 +53,57 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
                 <div class="mt-8">
                     <a href="#">
-                        <img src="/img/actor1.jpg" alt="actor1" class="hover:opacity-75 transition ease-in-out duration-250">
+                        <img src="/img/actor1.jpg" alt="parasite" class="hover:opacity-75 transition ease-in-out duration-250">
                     </a>
                     <div class="mt-2">
+                        <a href="#" class="text-lg mt-2 hover:text-gray-300">Real Name</a>
                         <div class="flex items-center text-gray-400 text-sm mt-1">
-                            <span class="ml-1">Real Name</span>
-                            <span class="mx-2">John Smith</span>
-
+                            <span>John Smith</span>
                         </div>
-
+                    </div>
+                </div>
+                <div class="mt-8">
+                    <a href="#">
+                        <img src="/img/actor2.jpg" alt="parasite" class="hover:opacity-75 transition ease-in-out duration-250">
+                    </a>
+                    <div class="mt-2">
+                        <a href="#" class="text-lg mt-2 hover:text-gray-300">Real Name</a>
+                        <div class="flex items-center text-gray-400 text-sm mt-1">
+                            <span>John Smith</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-8">
+                    <a href="#">
+                        <img src="/img/actor3.jpg" alt="parasite" class="hover:opacity-75 transition ease-in-out duration-250">
+                    </a>
+                    <div class="mt-2">
+                        <a href="#" class="text-lg mt-2 hover:text-gray-300">Real Name</a>
+                        <div class="flex items-center text-gray-400 text-sm mt-1">
+                            <span>John Smith</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-8">
+                    <a href="#">
+                        <img src="/img/actor4.jpg" alt="parasite" class="hover:opacity-75 transition ease-in-out duration-250">
+                    </a>
+                    <div class="mt-2">
+                        <a href="#" class="text-lg mt-2 hover:text-gray-300">Real Name</a>
+                        <div class="flex items-center text-gray-400 text-sm mt-1">
+                            <span>John Smith</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-8">
+                    <a href="#">
+                        <img src="/img/actor5.jpg" alt="parasite" class="hover:opacity-75 transition ease-in-out duration-250">
+                    </a>
+                    <div class="mt-2">
+                        <a href="#" class="text-lg mt-2 hover:text-gray-300">Real Name</a>
+                        <div class="flex items-center text-gray-400 text-sm mt-1">
+                            <span>John Smith</span>
+                        </div>
                     </div>
                 </div>
 
